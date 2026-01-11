@@ -1,1 +1,2 @@
 This is b1 file.
+This is first content in b1 branch
