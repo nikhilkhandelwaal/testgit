@@ -1,0 +1,3 @@
+function searchBox() {
+    // Dummy code
+}
