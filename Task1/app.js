@@ -1,3 +1,3 @@
-function searchProducts() {
+function sortProducts() {
     // dummy searchProducts function
 }
